@@ -1,5 +1,5 @@
-Hello git!
+Welcome to Git & GitHub
 
-Editing readme.md file in the 'new-branch'
+Stay tuned for more
 
 This is a basic calculator in which you can use to solve your basic arithmetic.
