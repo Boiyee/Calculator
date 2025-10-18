@@ -1,4 +1,4 @@
-Welcome to git!
+Welcome to Git & GitHub
 
 A Basic Calculator
 
