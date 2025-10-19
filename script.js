@@ -127,7 +127,4 @@ deleteButton.addEventListener('click', button => {
     calculator.updateDisplay();
 });
 
-//I AM IN THE PROCESS OF IMPLEMENTING AN IMPORTANT FEATURE 'GIT STASH'
-//CODE
-//CODE
-//CODER
+//URGENT FIX BY BOSS
