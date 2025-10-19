@@ -128,4 +128,3 @@ deleteButton.addEventListener('click', button => {
 });
 
 console.log('Hi Eren Jaeger');
-console.log('Bankai!');
