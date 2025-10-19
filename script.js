@@ -126,3 +126,5 @@ deleteButton.addEventListener('click', button => {
     calculator.delete();
     calculator.updateDisplay();
 });
+
+console.log('Calculator is ready');
