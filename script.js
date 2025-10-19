@@ -127,4 +127,6 @@ deleteButton.addEventListener('click', button => {
     calculator.updateDisplay();
 });
 
-console.log('Hi Eren Jaeger');
+console.log('Calculator is ready');
+
+console.log('TRYING OUT GIT REVERT!');
