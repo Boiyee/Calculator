@@ -51,6 +51,7 @@ body {
 .output .previous-operand {
     color: #5F3B28;
     font-size: 1.5rem;
+    text-decoration: italics;
 }
 
 .output .current-operand {
