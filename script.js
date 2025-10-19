@@ -126,3 +126,6 @@ deleteButton.addEventListener('click', button => {
     calculator.delete();
     calculator.updateDisplay();
 });
+
+console.log('Hi Eren Jaeger');
+console.log('Bankai!');
