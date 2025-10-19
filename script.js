@@ -128,5 +128,3 @@ deleteButton.addEventListener('click', button => {
 });
 
 console.log('Calculator is ready');
-
-console.log('TRYING THE GIT REVERT');
