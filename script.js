@@ -132,4 +132,6 @@ deleteButton.addEventListener('click', button => {
 //I AM IN THE PROCESS OF IMPLEMENTING AN IMPORTANT FEATURE
 //CODE
 //CODE
-//CODE
+
+console.log('Calculator is ready');
+
